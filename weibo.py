@@ -2,7 +2,6 @@ __author__ = 'wangmingming'
 from http import cookiejar
 import requests
 import time
-import rsa
 import re
 import binascii
 import json
