@@ -1,5 +1,4 @@
 import requests
-import gevent
 from db import redisIP
 import aiohttp
 import asyncio
